@@ -1,0 +1,17 @@
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\bin\Debug\net7.0\DLL.deps.json
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\bin\Debug\net7.0\DLL.dll
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\bin\Debug\net7.0\DLL.pdb
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\bin\Debug\net7.0\BOL.dll
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\bin\Debug\net7.0\DAL.dll
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\bin\Debug\net7.0\BOL.pdb
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\bin\Debug\net7.0\DAL.pdb
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.csproj.AssemblyReference.cache
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.AssemblyInfoInputs.cache
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.AssemblyInfo.cs
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.csproj.CoreCompileInputs.cache
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.csproj.CopyComplete
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.dll
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\refint\DLL.dll
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\DLL.pdb
+C:\IACSD\DOTNET LEC PRAC\Ecommerce\DLL\obj\Debug\net7.0\ref\DLL.dll
